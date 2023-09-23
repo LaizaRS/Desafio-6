@@ -8,11 +8,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - Figma
-- JavaScript
 
 ##  Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/PZPle8lxiQD6NjpDP7os4S/%23boraCodar---Desafio-2-(Community)?node-id=103-95&t=f1KP6np6kUGCcN2l-0). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pssvHmuUIqu5SGHriB11kC/%23boraCodar---Desafio-6-(Community)?type=design&node-id=1-7&mode=design&t=W2kpiFU1Jvc0MfN5-0). 
 
 <br>
 <p align="center">
